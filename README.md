@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
@@ -38,9 +36,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tr1yed/tr1yed/output/snake.svg" alt="Snake animation" />
 
 ###
